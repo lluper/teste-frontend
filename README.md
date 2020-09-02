@@ -58,3 +58,8 @@ Testes automatizados é um diferencial
 ### API Doc Yotube https://developers.google.com/youtube/v3/docs?hl=pt-br
 
 
+### Instruções para o teste ###
+
+Realize um fork nesse repositório, desenvolva o teste e encaminhe o link do repoitório. 
+
+
