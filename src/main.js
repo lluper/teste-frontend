@@ -6,7 +6,7 @@ import "./assets/global.css";
 Vue.config.productionTip = false;
 
 Vue.prototype.$appName = "Teste front Leonardo Luper";
-Vue.prototype.$API_KEY = "AIzaSyCPMk0E9GN1e9pqLXOsMcP1z82iO13EzWw";
+Vue.prototype.$API_KEY = ""; // Inserir sua API_KEY
 
 localStorage.clear();
 new Vue({
